@@ -8,7 +8,7 @@ Currently, I'm based in an undisclosed location and actively contributing to var
 
 ## Skills & Technologies
 
-css,aws,bootstrap,c,dotnet,eclipse,firebase,github,java,js,html,pycharm,mysql
+<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/b0ff1d82-b757-4df7-8fce-e3a8dc1113a7" /> 
 
 ## Top Projects
 
