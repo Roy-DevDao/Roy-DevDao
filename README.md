@@ -71,11 +71,13 @@ I’m **Roy_LikeDev**, a creative and detail-oriented developer passionate about
 <!-- Recent Activity -->
 ## 📝 Recent Activity
 
-- **[July 22, 2025]** 🚀 Pushed updates to [Soul-Knight2D](https://github.com/Roy-DevDao/Soul-Knight2D)  
-- **[July 20, 2025]** 🔧 Updated files in [Soul-Knight2D](https://github.com/Roy-DevDao/Soul-Knight2D)  
-- **[July 16, 2025]** 💻 Committed changes to [Ride-Hailing-System](https://github.com/Roy-DevDao/Ride-Hailing-System)  
-- **[July 15, 2025]** 🌱 Created a new branch in [Soul-Knight2D](https://github.com/Roy-DevDao/Soul-Knight2D)  
-- **[July 14, 2025]** 🩺 Updated various files in [Doctor-Booking](https://github.com/Roy-DevDao/SWP_DocCare)  
+<!--START_SECTION:activity-->
+1. 🚀 Pushed code
+2. 🔧 Updated repository
+3. 🌱 Created branch
+4. 🛠 Fixed bugs
+5. 📦 Added new features
+<!--END_SECTION:activity-->
 
 ---
 
